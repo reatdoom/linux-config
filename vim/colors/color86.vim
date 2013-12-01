@@ -12,8 +12,8 @@
 hi Normal cterm=none ctermfg=7 ctermbg=8
 
 " 当前行前后景色
-hi CursorLine ctermfg=none   ctermbg=81
-hi CursorColumn ctermfg=none ctermbg=81
+hi CursorLine cterm=none ctermfg=none   ctermbg=81
+hi CursorColumn cterm=none ctermfg=none ctermbg=81
 
 " 代码注释配色
 hi Comment cterm=none ctermfg=83
